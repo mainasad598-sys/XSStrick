@@ -1,0 +1,2 @@
+# XSStrick
+cross side scripting
